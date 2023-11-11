@@ -1,4 +1,4 @@
-  # MERN-Based-Placement Management-Portal-
+  # MERN Based Placement Management Portal
   
   The MERN Based Placement Management Portal is a web-based Placement Management System developed using the MERN Stack, designed to streamline and simplify the placement process for educational institutions. This indispensable tool enables the placement cell, students, and administrators by providing a centralized platform for efficient communication and data management.
   
